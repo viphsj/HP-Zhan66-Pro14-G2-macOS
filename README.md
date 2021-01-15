@@ -15,18 +15,18 @@
 | 网卡     | Realtek 8168                                   |
 
 ## 详情
-### 系统版本：macOS  （装在  1T SSD 上）
+### 系统版本：macOS  （装在  1T SSD 上），可直接下载 EFI 使用。
 
 ### 正常工作项
 - 显卡
+
+  Hackintool 工具，及以下2个驱动 [WhateverGreen](https://github.com/acidanthera/WhateverGreen/releases)，[Lilu](https://github.com/acidanthera/Lilu/releases) 。
 
 - 声卡
 
   注入 ID 14
 
-- WiFi - 安装如下驱动
-
-  https://github.com/OpenIntelWireless/itlwm/releases
+- WiFi - 安装如下驱动 [itlwm](https://github.com/OpenIntelWireless/itlwm/releases)
 
 - USB 正常驱动（包括蓝牙、摄像头）
 
